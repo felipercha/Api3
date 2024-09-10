@@ -113,7 +113,9 @@ Adicionar video e documentos nessa seção
 | Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
  
 </details>
 
