@@ -52,7 +52,7 @@ Adicionar video e documentos nessa seção
 # Backlog do produto
 <div id="top"></div> 
 <p align="center"> 
-      <img src="**" width="30%" height="30%"> 
+      <img src="*Backlog.png*" width="30%" height="30%"> 
 <p align="center">
 
 
