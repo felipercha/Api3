@@ -53,7 +53,7 @@ Sprint | Previsão | Status| Histórico|
 # Backlog do produto
 <div id="top"></div> 
 <p align="center"> 
-      <img src="api.png" width="70%" height="60%"> 
+      <img src="bac.png" width="70%" height="60%"> 
 <p align="center">
       
 # Funcionalidades e registros das sprints
