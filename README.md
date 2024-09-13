@@ -42,10 +42,10 @@ Adicionar video e documentos nessa seção
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
+<div id="top"></div> 
+<p align="center"> 
+      <img src="**" width="30%" height="30%"> 
+<p align="center">
 
 
 
@@ -57,37 +57,32 @@ Adicionar video e documentos nessa seção
 
 
 ## Sprint 1. 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Visualização gráficas dos dados iniciais em Power BI;
+- [ ] Modelo de Banco de dados consolidados em SQL
+- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
+- [ ] Relação entre Python com os Dados do SQL, para modelagem dos dados;
+- [ ] Análise das 153 variáveis;
+- [ ] Estudo ênfase em Python (EQUIPE);
+- [ ] Estudo ênfase em SQL (EQUIPE).
 
 ## Sprint 2. 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Estudo de otimização em Python;
+- [ ] Visualização gráficas da consolidação dos dados em Power BI;
+- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 2);
+- [ ] Funções para mensurar a produtividade das 3 plantas;
+- [ ] Método de Transporte (ESTUDO);
+- [ ] Análise do CIF e FOB;
+- [ ] Evolução dos custos.
       
 ## Sprint 3 . 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
+- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
+- [ ] Análise gráfica em Power BI rodando;
+- [ ] Cenário realizado e Cenário comparativo.
       
-.
-
-
+      
+      
+      
 
   
 # Competências desenvolvidas
