@@ -44,10 +44,10 @@ Espera-se que o modelo matemático identifique as rotas mais rápidas e econômi
 Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | Concluído | [Ver Relatório]() | 
-|Backlog| 24/09/2024 | Em andamento | [Ver Relatório]()| 
-|01| 15/09/2024| Em andamento |[Ver Relatório]() | 
-|02| 05/10/2024| Em andamento |[Ver Relatório]() | 
-|03| 26/10/2024 | Em andamento |[Ver Relatório]()  | 
+|Backlog| 24/09/2024 | Não iniciado | [Ver Relatório]()| 
+|01| 15/09/2024| Não iniciado |[Ver Relatório]() | 
+|02| 05/10/2024| Não iniciado |[Ver Relatório]() | 
+|03| 26/10/2024 | Não iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
 
 # Backlog do produto
