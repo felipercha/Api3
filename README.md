@@ -81,15 +81,15 @@ Adicionar video e documentos nessa seção
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
 - [ ] Relação entre Python com os Dados do SQL, para modelagem dos dados;
 - [ ] Análise das 153 variáveis;
-- [ ] Estudo ênfase em Python (EQUIPE);
-- [ ] Estudo ênfase em SQL (EQUIPE).
+- [ ] Estudo ênfase em Python;
+- [ ] Estudo ênfase em SQL.
 
 ## Sprint 2. 
 - [ ] Estudo de otimização em Python;
 - [ ] Visualização gráficas da consolidação dos dados em Power BI;
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 2);
 - [ ] Funções para mensurar a produtividade das 3 plantas;
-- [ ] Método de Transporte (ESTUDO);
+- [ ] Método de Transporte;
 - [ ] Análise do CIF e FOB;
 - [ ] Evolução dos custos.
       
