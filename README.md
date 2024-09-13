@@ -39,7 +39,7 @@ O objetivo do modelo de otimização baseado em pesquisa operacional é definir 
 
 Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, assegurando entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser adaptável a diferentes cenários e condições operacionais, oferecendo flexibilidade para lidar com imprevistos e variações na demanda.
 
-# CronogrOma das Sprints
+# Cronogroma das Sprints
 
 Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
