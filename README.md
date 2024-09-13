@@ -26,20 +26,32 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Altamira Talpai                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/altamira-talpai-66361b248) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/altamiratalpai)        |
 |  Team Member  | Caroline Alves                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-alves-04b776264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs)   |
 |  Team Member  | João Pedro       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPedro077)          |
+
 # Objetivo do Projeto
 O propósito deste projeto é aprimorar as rotas de três unidades de uma mesma empresa através da aplicação de métodos de pesquisa operacional. O objetivo é criar um modelo que aumente a eficiência logística, reduzindo custos e tempo de transporte entre as unidades, e assim assegurar uma distribuição mais rápida e econômica dos produtos.
 
-# Cronograma das Sprints
+# Resultados Esperados
+O objetivo do modelo de otimização baseado em pesquisa operacional é definir as rotas de transporte mais eficientes entre as três plantas da empresa. O modelo deve elaborar um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
 
-Sprint | Previsão | Status|
-|------|--------|------|
-|Kick Off | 03/09/2024 | concluido|
-|01 | 15/10/2024 | em progresso|
-|02|  05/11/2024| a fazer |
-|03| 26/11/2024 | a fazer|
-|Feira de Soluções|12/12/2024 |a fazer |
+Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, assegurando entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser adaptável a diferentes cenários e condições operacionais, oferecendo flexibilidade para lidar com imprevistos e variações na demanda.
 
+# Cronogrma das Sprints
 
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|Kick Off | 03/09/2024 | Concluído | [Ver Relatório]() | 
+|Backlog| 24/09/2024 | Em andamento | [Ver Relatório]()| 
+|01| 15/09/2024| Em andamento |[Ver Relatório]() | 
+|02| 05/10/2024| Em andamento |[Ver Relatório]() | 
+|03| 26/10/2024 | Em andamento |[Ver Relatório]()  | 
+|Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
+
+# Backlog do produto
+<div id="top"></div> 
+<p align="center"> 
+      <img src="api.png" width="70%" height="60%"> 
+<p align="center">
+      
 # Funcionalidades e registros (vídeos e apresentações) das sprints
 
 Apresentação das funcionalidades
@@ -57,12 +69,6 @@ Adicionar video e documentos nessa seção
 <p align="center">
 
 
-
-# Backlog do produto
-<div id="top"></div> 
-<p align="center"> 
-      <img src="api.png" width="70%" height="60%"> 
-<p align="center">
 
 
 ## Sprint 1. 
@@ -128,12 +134,3 @@ Adicionar video e documentos nessa seção
 
 </details>
 
-# Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Laura Barros   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-silva-3813a322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LauraSilva2)              |
-| Scrum Master  | Felipe Rocha |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-36a652230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipercha)     |
-| Team Member   | Yasmin Fernandes             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-fernandes-83a27124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YasminIsabeleSantos)        |
-|  Team Member  | Altamira Talpai                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/altamira-talpai-66361b248) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/altamiratalpai)        |
-|  Team Member  | Caroline Alves                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-alves-04b776264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs)   |
-|  Team Member  | João Pedro       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPedro077)          |
