@@ -56,7 +56,7 @@ Sprint | Previsão | Status| Histórico|
       <img src="api.png" width="70%" height="60%"> 
 <p align="center">
       
-# Funcionalidades e registros (vídeos e apresentações) das sprints
+# Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
