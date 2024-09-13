@@ -18,9 +18,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Equipe
 
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |                                                                                                                                              LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Laura Barros   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-silva-3813a322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LauraSilva2)              |
+| Product Owner |   Laura Barros <div id="top"></div> <p align=""> <img src="" width="30%" height="30%"> <p align="center"> |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-silva-3813a322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LauraSilva2)              |
 | Scrum Master  | Felipe Rocha |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-36a652230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/felipercha)     |
 | Team Member   | Yasmin Fernandes             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-fernandes-83a27124a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YasminIsabeleSantos)        |
 |  Team Member  | Altamira Talpai                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/altamira-talpai-66361b248) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/altamiratalpai)        |
@@ -35,9 +35,9 @@ O objetivo do modelo de otimização baseado em pesquisa operacional é definir 
 
 Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, assegurando entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser adaptável a diferentes cenários e condições operacionais, oferecendo flexibilidade para lidar com imprevistos e variações na demanda.
 
-# Cronogrma das Sprints
+# CronogrOma das Sprints
 
-Sprint | Previsão | Status| Histórico|
+Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
 |Kick Off | 03/09/2024 | Concluído | [Ver Relatório]() | 
 |Backlog| 24/09/2024 | Em andamento | [Ver Relatório]()| 
