@@ -1,20 +1,21 @@
-# LogiMaxInsights
-
+# LogiMax Insights
 
 
 
 
 # Índice
+* [Projeto](#projeto-api)
+* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e registros (vídeos e apresentações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresentações)-das-sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* [Resultados Esperados](#resultados-esperados)
+* [Cronograma das Sprints](#cronograma-das-sprints)
+* [Backlog do Produto](#backlog-do-produto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Competências Desenvolvidas](#competências-desenvolvidas)
+
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da eficiência das rotas em uma empresa embarcadora, com o objetivo de aprimorar a distribuição e, assim, diminuir os custos logísticos.
 
 
 # Equipe
@@ -35,9 +36,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 O propósito deste projeto é aprimorar as rotas de três unidades de uma mesma empresa através da aplicação de métodos de pesquisa operacional. O objetivo é criar um modelo que aumente a eficiência logística, reduzindo custos e tempo de transporte entre as unidades, e assim assegurar uma distribuição mais rápida e econômica dos produtos.
 
 # Resultados Esperados
-O objetivo do modelo de otimização baseado em pesquisa operacional é definir as rotas de transporte mais eficientes entre as três plantas da empresa. O modelo deve elaborar um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
+O resultado desejado do modelo de otimização usando pesquisa operacional é a definição das rotas de transporte mais eficazes entre as três plantas da empresa. O objetivo é que o modelo ofereça um plano detalhado que reduza ao máximo os custos totais de transporte, levando em conta aspectos como distância, capacidade dos veículos, tempo de deslocamento e restrições operacionais.
 
-Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, assegurando entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser adaptável a diferentes cenários e condições operacionais, oferecendo flexibilidade para lidar com imprevistos e variações na demanda.
+Espera-se que o modelo matemático determine as rotas mais rápidas e econômicas, assegurando entregas pontuais e minimizando o tempo ocioso dos veículos. Além disso, o modelo deve ser flexível o suficiente para se ajustar a diferentes cenários e condições operacionais, permitindo lidar com imprevistos e variações na demanda.
 
 # Cronograma das Sprints
 
