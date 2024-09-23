@@ -19,10 +19,7 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da 
 
 
 # Equipe
-<div id="top"></div> 
-<p align="center"> 
-      <img src="" width="70%" height="70%"> 
-<p align="center">
+
 </details>
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
