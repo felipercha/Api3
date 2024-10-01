@@ -62,9 +62,9 @@ Sprint | Previsão | Status| Histórico|
 Apresentação das funcionalidades
 Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
 
-Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo]()
+
+![Nome do Vídeo](mvp.gif)
 
 ## Tecnologias Utilizadas
 
