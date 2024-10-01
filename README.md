@@ -34,7 +34,7 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da 
 # Organograma
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="70%" height="70%"> 
+      <img src="Image.jpg" width="70%" height="70%"> 
 <p align="center">
       
 # Objetivo do Projeto
