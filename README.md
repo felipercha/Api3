@@ -31,7 +31,12 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da 
 |  Team Member  | Caroline Alves                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-alves-04b776264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/carolinealvs)   |
 |  Team Member  |João Pedro       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-dos-santos-freires-396121210) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoPedro077)          |
 
-
+# Organograma
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="70%"> 
+<p align="center">
+      
 # Objetivo do Projeto
 O propósito deste projeto é aprimorar as rotas de três unidades de uma mesma empresa através da aplicação de métodos de pesquisa operacional. O objetivo é criar um modelo que aumente a eficiência logística, reduzindo custos e tempo de transporte entre as unidades, e assim assegurar uma distribuição mais rápida e econômica dos produtos.
 
