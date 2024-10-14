@@ -57,17 +57,14 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
 
 # Backlog do produto
+- [x] Modelo de Banco de dados consolidados em SQL
+- [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI
+- [ ] Método de transporte e otimização em python
+- [ ] Visualizações gráficas dos resultados otimizados 
+- [ ] Evoluções e comparativos dos custos
 
 
 
-
-
-
-<div id="top"></div> 
-<p align="center"> 
-      <img src="" width="70%" height="70%"> 
-<p align="center">
-      
 # Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
@@ -88,13 +85,14 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ## Sprint 1. 
-- [ ] Visualização gráficas de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI
-- [x] Modelo de Banco de dados consolidados em SQL
+- [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI;
+- [x] Modelo de Banco de dados consolidados em SQL;
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
-- [ ] Relação entre Python com os Dados do SQL, para modelagem dos dados;
-- [ ] Análise das 153 variáveis;
+- [ ] Relação entre Power BI com os dados do Python;
+- [ ] Análise das variáveis;
 - [ ] Estudo ênfase em Python;
-- [ ] Estudo ênfase em SQL.
+- [ ] Estudo ênfase em SQL;
+- [ ]  Análise do CIF e FOB.
 
 ## Sprint 2. 
 - [ ] Estudo de otimização em Python;
@@ -102,13 +100,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 2);
 - [ ] Funções para mensurar a produtividade das 3 plantas;
 - [ ] Método de Transporte;
-- [ ] Análise do CIF e FOB;
 - [ ] Evolução dos custos.
       
 ## Sprint 3 . 
 - [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
-- [ ] Análise gráfica em Power BI rodando;
+- [ ] Análise gráfica final em Power BI;
 - [ ] Cenário realizado e Cenário comparativo.
       
       
