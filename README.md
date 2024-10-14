@@ -57,6 +57,12 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
 
 # Backlog do produto
+
+
+
+
+
+
 <div id="top"></div> 
 <p align="center"> 
       <img src="" width="70%" height="70%"> 
@@ -82,7 +88,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ## Sprint 1. 
-- [ ] Visualização gráficas dos dados iniciais em Power BI;
+- [ ] Visualização gráficas de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI
 - [x] Modelo de Banco de dados consolidados em SQL
 - [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
 - [ ] Relação entre Python com os Dados do SQL, para modelagem dos dados;
