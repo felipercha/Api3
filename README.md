@@ -73,7 +73,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ![Nome do Vídeo](mvp.gif)
-![Nome do Vídeo]()
+
+
 ## Tecnologias Utilizadas
 
 <div id="top"></div> 
