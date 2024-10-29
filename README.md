@@ -91,9 +91,9 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [x] Análise do CIF e FOB.
 - [x] Modelo de Banco de dados consolidados em SQL;
 - [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI; 
-- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
-- [ ] Relação entre Power BI com os dados do Python;
-- [ ] Análise das variáveis;
+- [x] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
+- [x] Relação entre Power BI com os dados do Python;
+- [x] Análise das variáveis;
 
 
 ## Sprint 2. 
