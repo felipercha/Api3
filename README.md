@@ -52,8 +52,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 03/09/2024 | Concluído | [Ver Relatório](https://fatecspgov.sharepoint.com/:p:/r/sites/Section_PLG003.A994.M.074.146.20242/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B7d0d082f-2c7f-4b99-8202-15ceb8cec60e%7D&wdOrigin=TEAMS-WEB.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1726577626422&web=1) | 
 |Backlog| 24/09/2024 | Concluído| [Ver Relatório]()| 
 |01| 15/09/2024|  Concluído |[Ver Relatório](Sprint1.pdf) | 
-|02| 05/10/2024| Não iniciado |[Ver Relatório]() | 
-|03| 26/10/2024 | Não iniciado |[Ver Relatório]()  | 
+|02| 12/10/2024| Concluído |[Ver Relatório](RLTSPRINT2.pdf) | 
+|03| 26/10/2024 | Iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 12/12/2024 | Não iniciado |[Ver Relatório]()  | 
 
 # Backlog do produto
